@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74db14455e78ca4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Javascript_core/5.constant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Javascript_core/4.Variables.md",
+                "file": "1.Javascript_core/5.constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Javascript_core/4.Variables.md",
+                "file": "1.Javascript_core/5.constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Javascript_core/4.Variables.md"
+                "file": "1.Javascript_core/5.constant.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c046277188cdb030",
+  "active": "74db14455e78ca4e",
   "lastOpenFiles": [
     "Untitled.md",
+    "1.Javascript_core/5.constant.md",
     "1.Javascript_core/4.Variables.md",
     "1.Javascript_core/3.Comments.md",
     "1.Javascript_core/2.Syntax.md",
