@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "right": {
     "id": "d4cb370e692aa1a0",
@@ -128,6 +128,18 @@
                 "file": "1.Javascript_core/8.Function.md"
               }
             }
+          },
+          {
+            "id": "dcd7d4ed458ac6a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
@@ -143,21 +155,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "74db14455e78ca4e",
   "lastOpenFiles": [
-    "1.Javascript_core/7.Datatypes.md",
+    "1.Javascript_core/9.Object.md",
     "1.Javascript_core/8.Function.md",
+    "Attachment_file/car.png",
+    "Untitled.canvas",
+    "Attachment_file/Pasted image 20240201153141.png",
+    "Readme.md",
+    "Attachment_file/Pasted image 20240201151948.png",
+    "Attachment_file",
+    "New folder",
+    "Untitled.md",
+    "1.Javascript_core/7.Datatypes.md",
     "1.Javascript_core/6. OperatorsAndOperands.md",
     "1.Javascript_core/5.constant.md",
     "1.Javascript_core/4.Variables.md",
-    "Untitled.md",
     "1.Javascript_core/3.Comments.md",
     "1.Javascript_core/2.Syntax.md",
     "1.Javascript_core/1.Introduction.md",
-    "Readme.md",
     "1.Javascript_core"
   ]
 }

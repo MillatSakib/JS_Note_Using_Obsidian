@@ -1,1 +1,1 @@
-From this note you can learn about full feature of Java script. When I make this note I follow the Java script documentation of `w3schools`. So If you can understand the `w3school` documentation then you can learn from there.
+From this note you can learn about full feature of Java script. When I make this note I follow the Java script documentation of `w3schools`. So If you can understand the `w3school` documentation then you can learn from there.![[Pasted image 20240201151948.png]]
