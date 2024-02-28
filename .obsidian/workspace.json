@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Javascript_core/9.Object.md",
+                "file": "Advance/Asyncronus/1.Callback.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Javascript_core/9.Object.md",
+                "file": "Advance/Asyncronus/1.Callback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Javascript_core/9.Object.md",
+                "file": "Advance/Asyncronus/1.Callback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Javascript_core/9.Object.md"
+                "file": "Advance/Asyncronus/1.Callback.md"
               }
             }
           },
@@ -146,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -160,15 +159,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d805ed9a84396165",
+  "active": "74db14455e78ca4e",
   "lastOpenFiles": [
-    "1.Javascript_core/2.Syntax.md",
     "1.Javascript_core/9.Object.md",
-    "1.Javascript_core/11.string.md",
-    "1.Javascript_core/4.Variables.md",
+    "Advance/Asyncronus/1.Callback.md",
+    "Advance/Asyncronus",
+    "Advance",
     "1.Javascript_core/10.Events.md",
-    "1.Javascript_core/8.Function.md",
+    "1.Javascript_core/11.string.md",
+    "1.Javascript_core/12.Number.md",
     "Attachment_file/car.png",
+    "1.Javascript_core/8.Function.md",
+    "1.Javascript_core/2.Syntax.md",
+    "1.Javascript_core/4.Variables.md",
     "Untitled.canvas",
     "Attachment_file/Pasted image 20240201153141.png",
     "Readme.md",
